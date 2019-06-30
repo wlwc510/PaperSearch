@@ -1,17 +1,16 @@
 target/
-
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
+.scrapy/
+__pychache__/
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+
+### Maven ###
+.mvn
+
 ### python class ###
 *.pyc
+*.npy
